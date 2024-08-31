@@ -50,7 +50,18 @@
 </table>
 
 
+<h3 align="left">🛠 Мои навыки</h3>
 
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py" height="80" />
+  <img src="https://skillicons.dev/icons?i=unity" height="80"/>
+  <img src="https://skillicons.dev/icons?i=cs" height="80"/>
+  <img src="https://skillicons.dev/icons?i=dotnet" height="80"/>
+  <img src="https://skillicons.dev/icons?i=blender" height="80"/>
+  <img src="https://skillicons.dev/icons?i=gitlab" height="80"/>
+</div>
 
 
 
