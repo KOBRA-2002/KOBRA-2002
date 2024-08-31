@@ -19,7 +19,7 @@
         <td>
             <h2>Art of Cubes</h2>
             <p>Мой первый коммерческий проект над которым я работал в роли стажера. Выполнен на технологии ECS (Entitas).</p>
-          <a href="https://play.google.com/store/apps/details?id=com.EudokiaGames.ArtOfCub&hl=en">Ссылна на PlayMarket</a>
+          <a href="https://play.google.com/store/apps/details?id=com.EudokiaGames.ArtOfCub&hl=en">Ссылка на PlayMarket</a>
         </td>
     </tr>
     <tr>
@@ -28,8 +28,8 @@
         </td>
         <td>
             <h2>Cats'Rock Paper Scissors game</h2>
-            <p>Мой слудующий уже джуновский проект в рамках той же студии.</p>
-          <a href="https://play.google.com/store/apps/details?id=com.EudokiaGames.KungFurClubNew&hl=en">Ссылна на PlayMarket</a>
+            <p>Мой следующий уже джуновский проект в рамках той же студии.</p>
+          <a href="https://play.google.com/store/apps/details?id=com.EudokiaGames.KungFurClubNew&hl=en">Ссылка на PlayMarket</a>
         </td>
     </tr>
 
@@ -44,7 +44,7 @@
 <br> ⚡Работа над данной игрой необходится без решения интересных задач, таких как компенсация сетевых задержек, игровой ИИ и тд.
 <br> ⚡Я достаточно много уделил ему времени чтобы его полюбить не смотря на его баги 😄.
 <br> ⚡Я старший программист 😄.
-<br> <a href="https://store.steampowered.com/app/1707170/Sumo_Tatami/">Ссылна на Steam</a>
+<br> <a href="https://store.steampowered.com/app/1707170/Sumo_Tatami/">Ссылка на Steam</a>
         </td>
     </tr>
 </table>
