@@ -4,11 +4,11 @@
 
 ###
 
-<p align="left"> Я молодой программист специализирующийся на разработке видеоигр! Свой путь программиста я начал со знакомства с робототехникой и низкоуровневым программированием в 8 классе школы. 
+<p align="left"> Я молодой программист. Свой путь я начал со знакомства с робототехникой и низкоуровневым программированием в 8 классе школы. 
   Геймдевом начал заниматься после того как в 10 классе попал на программу от образовательного центра Сириус где и познакомился с Unity. В дальнейшем поступил и окончил физфак Самарского университета где начиная со 2 курса работал
   в своей первой игровой студии Eudokia Games.
 
-<h3 align="left">Мои коммерческие проекты</h3>
+<h3 align="left">Мои коммерческие проекты в GameDev</h3>
 
 
 <table>
@@ -54,12 +54,13 @@
 ###
 
 <div align="left">
+  <img src="https://skillicons.dev/icons?i=cs" height="80"/>
   <img src="https://skillicons.dev/icons?i=py" height="80" />
   <img src="https://skillicons.dev/icons?i=unity" height="80"/>
-  <img src="https://skillicons.dev/icons?i=cs" height="80"/>
+    <img src="https://skillicons.dev/icons?i=blender" height="80"/>
   <img src="https://skillicons.dev/icons?i=dotnet" height="80"/>
-  <img src="https://skillicons.dev/icons?i=blender" height="80"/>
-  <img src="https://skillicons.dev/icons?i=gitlab" height="80"/>
+  <img src="https://skillicons.dev/icons?i=git" height="80"/>
+   <img src="https://skillicons.dev/icons?i=qt" height="80"/>
 </div>
 
 
